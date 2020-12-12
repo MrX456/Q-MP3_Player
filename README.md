@@ -1,4 +1,4 @@
-<div align="center"><h1>Cars Perfomance Charts</h1></div>
+<div align="center"><h1>Q!Mp3Player</h1></div>
 
 <p align="center">
   <img src="icon.png">
@@ -6,7 +6,9 @@
 
 <h2>About</h2>
 
-<p>Register cars and compare specs with various charts.</p>
+<p>Simple Java mp3 player<br/>
+- Listen your mp3 favorite songs<br/>
+- Single song or playlist</p>
 <p>Version : 1.0.0</p>
 <p>Developed By : MrX</p>
 
